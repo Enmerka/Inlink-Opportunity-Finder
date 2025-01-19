@@ -102,6 +102,6 @@ This tool assists SEO specialists, content teams and general website users in fi
 - **Internal linking helps to improve a site's internal architecture.**
 - **Internal linking sculpts website representation vectors**
 ### Join this community
-I have linked a Google form [here](https://forms.gle/ApsYbueBdggSvgFD6)  )
+I have linked a Google form [here](https://forms.gle/ApsYbueBdggSvgFD6)  
 """)
 
