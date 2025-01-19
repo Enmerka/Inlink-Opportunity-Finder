@@ -96,11 +96,11 @@ if uploaded_file:
 # Sidebar for app instructions
 st.sidebar.title("About This App")
 st.sidebar.markdown("""
-This tool assists SEO specialists, content teams and general website users in finding internal linking opportunities. Internal linking is important in SEO because of th following reasons
+This tool assists SEO specialists, content teams and general website users in finding internal linking opportunities. Internal linking is important in SEO because of the following reasons
 
-- **The anchor texts are used as keyword relevancy signals for the target URL**
-- **Internal linking helps to improve a site's internal architecture.**
-- **Internal linking sculpts website representation vectors**
+- The anchor texts are used as keyword relevancy signals for the target URL
+- Internal linking helps to improve a site's internal architecture and PageRank Distribution
+- Internal linking sculpts website representation vectors
 ### Join this community
 I have linked a Google form [here](https://forms.gle/ApsYbueBdggSvgFD6)  
 """)
